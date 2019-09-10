@@ -24,7 +24,7 @@ module.exports = {
     'vue/no-unused-components': 'warn',
     'dot-notation': 'warn',
     'prettier/prettier': [
-      'error',
+      'warn',
       {
         endOfLine: 'auto',
         htmlWhitespaceSensitivity: 'css'
