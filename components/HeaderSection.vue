@@ -1,6 +1,8 @@
 <template>
   <section>
-    <div class="nav"></div>
+    <div class="nav">
+      <a href="rankings"></a>
+    </div>
     <div>
       <div class="video-wrapper">
         <!-- <h1>D.O.P.E. DYNASTY</h1> -->
@@ -133,6 +135,11 @@ export default {
   position: absolute;
   top: 0;
   left: 0;
+  position: fixed;
+  z-index: 10;
+  a {
+    color: rgb(170, 145, 3);
+  }
 }
 .video-wrapper {
   width: 100%;
