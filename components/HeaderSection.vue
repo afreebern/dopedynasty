@@ -1,5 +1,6 @@
 <template>
   <section>
+    <div class="nav"></div>
     <div>
       <div class="video-wrapper">
         <!-- <h1>D.O.P.E. DYNASTY</h1> -->
@@ -8,6 +9,7 @@
           alt=""
         />
         <video
+          ref="video"
           src="https://res.cloudinary.com/dipgyyv6a/video/upload/v1568135123/Aaron/y2mate.com_-_nfl_pump_up_2019_20_colors_z17ykigyH6o_920p_g2xga6.mp4"
           autoplay
           muted
@@ -114,7 +116,23 @@
   </section>
 </template>
 
+<script>
+export default {
+  mounted() {
+    this.$refs.video.play()
+  }
+}
+</script>
+
 <style lang="scss" scoped>
+.nav {
+  width: 100%;
+  height: 150px;
+  background-color: #000;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
 .video-wrapper {
   width: 100%;
   position: relative;
