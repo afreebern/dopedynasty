@@ -1,5 +1,5 @@
 <template>
-  <div class="content" id="power-rankings">
+  <div class="content">
     <div class="nav-tiles">
       <div class="tile left">
         <a v-smooth-scroll href="#power-rankings">
@@ -17,7 +17,7 @@
       <h2>D.O.P.E.</h2>
       <h3>POWER RANKINGS</h3>
       <div class="listy-box">
-        <div class="block">
+        <div class="block" id="power-rankings">
           <div class="rank-number gold">
             <span>#1</span>
           </div>
