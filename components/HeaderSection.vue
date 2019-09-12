@@ -4,7 +4,7 @@
       <div class="video-wrapper">
         <!-- <h1>D.O.P.E. DYNASTY</h1> -->
         <img
-          src="https://res.cloudinary.com/dipgyyv6a/image/upload/v1568147890/Aaron/DOPE_3_1_rjfvvi.png"
+          src="https://res.cloudinary.com/dipgyyv6a/image/upload/v1568304267/Aaron/dopedrop_lbdpfo.png"
           alt=""
         />
         <video
