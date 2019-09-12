@@ -66,6 +66,7 @@ h2 {
 h3 {
   font-size: 50px;
   margin-bottom: 40px;
+  text-align: center;
 }
 
 img {
