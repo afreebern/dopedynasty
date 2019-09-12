@@ -18,7 +18,7 @@
       <h3>POWER RANKINGS</h3>
       <div class="listy-box">
         <div class="block">
-          <div class="rank-number">
+          <div class="rank-number gold">
             <span>#1</span>
           </div>
           <div class="team-card adam">
@@ -26,7 +26,7 @@
           </div>
         </div>
         <div class="block">
-          <div class="rank-number">
+          <div class="rank-number gold">
             <span>#2</span>
           </div>
           <div class="team-card drew">
@@ -34,7 +34,7 @@
           </div>
         </div>
         <div class="block">
-          <div class="rank-number">
+          <div class="rank-number gold">
             <span>#3</span>
           </div>
           <div class="team-card david">
@@ -42,7 +42,7 @@
           </div>
         </div>
         <div class="block">
-          <div class="rank-number">
+          <div class="rank-number gold">
             <span>#4</span>
           </div>
           <div class="team-card josh">
@@ -50,7 +50,7 @@
           </div>
         </div>
         <div class="block">
-          <div class="rank-number">
+          <div class="rank-number silver">
             <span>#5</span>
           </div>
           <div class="team-card aaron">
@@ -58,7 +58,7 @@
           </div>
         </div>
         <div class="block">
-          <div class="rank-number">
+          <div class="rank-number silver">
             <span>#6</span>
           </div>
           <div class="team-card matt">
@@ -66,7 +66,7 @@
           </div>
         </div>
         <div class="block">
-          <div class="rank-number">
+          <div class="rank-number silver">
             <span>#7</span>
           </div>
           <div class="team-card tyler">
@@ -74,7 +74,7 @@
           </div>
         </div>
         <div class="block">
-          <div class="rank-number">
+          <div class="rank-number silver">
             <span>#8</span>
           </div>
           <div class="team-card gio">
@@ -82,7 +82,7 @@
           </div>
         </div>
         <div class="block">
-          <div class="rank-number">
+          <div class="rank-number bronze">
             <span>#9</span>
           </div>
           <div class="team-card lindsey">
@@ -90,7 +90,7 @@
           </div>
         </div>
         <div class="block">
-          <div class="rank-number">
+          <div class="rank-number bronze">
             <span>#10</span>
           </div>
           <div class="team-card john">
@@ -98,7 +98,7 @@
           </div>
         </div>
         <div class="block">
-          <div class="rank-number">
+          <div class="rank-number bronze">
             <span>#11</span>
           </div>
           <div class="team-card joey">
@@ -239,15 +239,24 @@ img {
 .rank-number {
   width: 20%;
   height: 100px;
-  outline: 1px solid #fff;
+  outline: 1px solid #746a34;
   display: flex;
   justify-content: center;
   align-items: center;
   font-size: 28px;
   font-weight: 700;
   span {
-    color: #fff;
   }
+}
+
+.gold {
+  color: rgb(255, 251, 0);
+}
+.silver {
+  color: rgb(216, 216, 216);
+}
+.bronze {
+  color: rgb(117, 80, 1);
 }
 
 .team-card {
