@@ -234,6 +234,11 @@ img {
 .block {
   display: flex;
   flex-direction: row;
+  &:hover {
+    cursor: pointer;
+    outline: 3px solid #fff;
+    box-shadow: 2px 2px 3px #000;
+  }
 }
 
 .rank-number {
@@ -245,8 +250,6 @@ img {
   align-items: center;
   font-size: 28px;
   font-weight: 700;
-  span {
-  }
 }
 
 .gold {
@@ -276,46 +279,96 @@ img {
 
 .adam {
   background-image: url('https://res.cloudinary.com/dipgyyv6a/image/upload/v1568246217/Aaron/adam-card_xvpiag.jpg');
+  &:hover {
+    background-size: 125%;
+    transition: 0.5s;
+  }
 }
 
 .drew {
   background-image: url('https://res.cloudinary.com/dipgyyv6a/image/upload/v1568298143/Aaron/drew_y7rlge.jpg');
+  &:hover {
+    background-size: 125%;
+    transition: 0.5s;
+  }
 }
 
 .david {
   background-image: url('https://res.cloudinary.com/dipgyyv6a/image/upload/v1568298734/Aaron/david_dkcawy.jpg');
+  &:hover {
+    background-size: 125%;
+    transition: 0.5s;
+  }
 }
 
 .josh {
   background-image: url('https://res.cloudinary.com/dipgyyv6a/image/upload/v1568299393/Aaron/josh_cimn1d.jpg');
+  &:hover {
+    background-size: 125%;
+    transition: 0.5s;
+  }
 }
 
 .aaron {
   background-image: url('https://res.cloudinary.com/dipgyyv6a/image/upload/v1568300039/Aaron/aaron_kesdwz.jpg');
+  &:hover {
+    background-size: 150%;
+    transition: 0.5s;
+  }
 }
 
 .matt {
   background-image: url('https://res.cloudinary.com/dipgyyv6a/image/upload/v1568301072/Aaron/matt_ieasog.jpg');
+  &:hover {
+    transform: scale(-1);
+  }
 }
 
 .tyler {
   background-image: url('https://res.cloudinary.com/dipgyyv6a/image/upload/v1568301430/Aaron/tp_m7l9s4.jpg');
+  &:hover {
+    background-size: 110%;
+    text-shadow: 2px 2px 5px RED;
+    h4 {
+      color: YELLOW;
+    }
+  }
 }
 
 .gio {
   background-image: url('https://res.cloudinary.com/dipgyyv6a/image/upload/v1568302178/Aaron/gio_qcugum.jpg');
+  &:hover {
+    background-size: 110%;
+    h4 {
+      transform: rotate(5deg);
+    }
+  }
 }
 
 .lindsey {
   background-image: url('https://res.cloudinary.com/dipgyyv6a/image/upload/v1568302443/Aaron/lindsey_n23mzp.jpg');
+  &:hover {
+    background-size: 125%;
+    transition: 0.5s;
+  }
 }
 
 .john {
   background-image: url('https://res.cloudinary.com/dipgyyv6a/image/upload/v1568302688/Aaron/john_fvt8ts.jpg');
+  &:hover {
+    background-size: 110%;
+    h4 {
+      transform: rotate(-5deg);
+    }
+  }
 }
 
 .joey {
   background-image: url('https://res.cloudinary.com/dipgyyv6a/image/upload/v1568303156/Aaron/joey_s8v8hs.jpg');
+  &:hover {
+    background-size: 125%;
+    transition: 0.5s;
+  }
 }
 
 @media only screen and (min-width: 550px) {
