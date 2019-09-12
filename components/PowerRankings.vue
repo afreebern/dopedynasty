@@ -17,13 +17,23 @@
       <h2>D.O.P.E.</h2>
       <h3>POWER RANKINGS</h3>
       <div class="listy-box">
-        <div class="block" id="power-rankings">
+        <div class="block" id="power-rankings" @click="openOne()">
           <div class="rank-number gold">
             <span>#1</span>
           </div>
           <div class="team-card adam">
             <h4>HOF</h4>
           </div>
+        </div>
+        <div class="the-why" ref="whyone">
+          <h2>HERES WHY:</h2>
+          <p>
+            Because Will is a fuckin turd thats why. Adam has moved his way into
+            the one spot publically sodomising Billy Backwoods. But we can't
+            fault Adam right? I'd do it too...I tried to do it too. SO, with
+            Zeke, Gurley, Julio and Adams what choice to we have? Congrats, I
+            hope your team burns to the ground.
+          </p>
         </div>
         <div class="block">
           <div class="rank-number gold">
@@ -109,6 +119,29 @@
     </div>
   </div>
 </template>
+
+<script>
+export default {
+  data() {
+    return {
+      toggled: false
+    }
+  },
+
+  methods: {
+    openOne() {
+      console.log('trigger')
+      if (this.toggled === false) {
+        this.$refs.whyone.classList.add('expand')
+        this.toggled = true
+      } else {
+        this.$refs.whyone.classList.remove('expand')
+        this.toggled = false
+      }
+    }
+  }
+}
+</script>
 <style lang="scss" scoped>
 .nav-tiles {
   width: 100%;
@@ -228,7 +261,6 @@ img {
 
 .listy-box {
   width: 100%;
-  border: 1px solid darkslategrey;
 }
 
 .block {
@@ -239,6 +271,11 @@ img {
     outline: 3px solid #fff;
     box-shadow: 2px 2px 3px #000;
   }
+}
+
+.expand {
+  height: unset !important;
+  transition: 05s;
 }
 
 .rank-number {
@@ -368,6 +405,25 @@ img {
   &:hover {
     background-size: 125%;
     transition: 0.5s;
+  }
+}
+
+.the-why {
+  background-color: #fff;
+  width: 98%;
+  margin: 0 auto;
+  height: 0px;
+  text-align: center;
+  font-weight: 600;
+  h2 {
+    color: #000;
+    font-size: 28px;
+    margin-bottom: 5px;
+  }
+  p {
+    max-width: 900px;
+    margin: 0 auto;
+    padding-bottom: 20px;
   }
 }
 
