@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="body-back">
     <header-section />
     <power-rankings />
     <hall-of-records />
@@ -19,3 +19,9 @@ export default {
   }
 }
 </script>
+
+<style lang="scss" scoped>
+.body-back {
+  background-color: #000;
+}
+</style>

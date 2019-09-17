@@ -32,11 +32,11 @@
             alt=""
           />
           <p>
-            Because Will is a fuckin turd thats why. Adam has moved his way into
-            the one spot publically sodomising Billy Backwoods. But we can't
-            fault Adam right? I'd do it too...I tried to do it too. SO, with
-            Zeke, Gurley, Julio and Adams what choice to we have? Congrats, I
-            hope your team burns to the ground.
+            Well this is the world we live in now. Adam scored the hihest in
+            week 3. SHOCKER. Dede shit the bed, but other than that across the
+            board Adams players scored in double digits. Nobody really went
+            bonkers but when your starters are that good across the board who
+            has to?
           </p>
         </div>
         <div class="block" @click="opentwo()">
@@ -50,142 +50,104 @@
         <div class="the-why" ref="whytwo">
           <h2>HERES WHY:</h2>
           <p>
-            Drew Mac, ladies and gentleman coming in hot in week one. Apparently
-            Dak Prescott isnt the incompetent pile of shit i thought he was...or
-            maybe the giants defense is just the bad. We'll see i guess. Drew
-            might not have Mixon this week, which would be a kick straight in
-            the penis, because he'd have to start a dolphin :/. Anywho, GOAT is
-            a team to beat.
+            Fuck. Dak. Prescott... he good doh.
           </p>
         </div>
         <div class="block" @click="openthree()">
           <div class="rank-number gold">
             <span>#3</span>
           </div>
-          <div class="team-card david">
-            <h4>Detroit Smash</h4>
+          <div class="team-card josh">
+            <h4>Diggity Dogg</h4>
           </div>
         </div>
         <div class="the-why" ref="whythree">
           <h2>HERES WHY:</h2>
-          <img
-            src="https://res.cloudinary.com/dipgyyv6a/image/upload/v1568325682/Aaron/obigif_mja9oa.gif"
-            alt=""
-          />
           <p>
-            GEE-ZUS-KHRIST. Have you guys ever seen a shinier pile of shit?
-            David clearly wanted to be the first to show everyone how much i
-            don't know what the fuck I'm talking about. Buuuut I'm not a big
-            participant in overreaction Monday so i'm not going to drop our
-            paper champions too far just yet. That team is still STACKED. Conner
-            doesnt play the evil empire next week so he should bounce back. You
-            guys think he'll start Hock this week? tehe.
+            Welp... that was close. Tommy Terrific and Godwin got you just outta
+            reach. Solid across the board with big play potential keeps Diggity
+            near the top. What will the loss of Ben do to Juju? We shall see.
           </p>
         </div>
         <div class="block" @click="openFour()">
           <div class="rank-number gold">
             <span>#4</span>
           </div>
-          <div class="team-card josh">
-            <h4>Diggity Dogg</h4>
+          <div class="team-card aaron">
+            <h4>Fugly Mountain Trolls</h4>
           </div>
         </div>
         <div class="the-why" ref="whyfour">
           <h2>HERES WHY:</h2>
-          <img
-            src="https://res.cloudinary.com/dipgyyv6a/image/upload/v1568326041/Aaron/babygif_xaigm3.gif"
-            alt=""
-          />
+
           <p>
-            Apparently team "13 going on 30" is already good. Nobody on his
-            roster can rent a fuckin car but they can all score touchdowns. Even
-            with juju shooting blanks against the Pats Josh still managed to
-            defeat Darth Hoffman, which we all know we want. I didnt think I'd
-            have to worry about josh until everyone on his team hit puberty.
-            Guess not.
+            I'm bad at this. It's a good thing my team is good, because I am
+            not. Keeping Kyler or starting LITERALLY anyone not named Ronald
+            Jones and I win this matchup. .66 total over two weeks? FUCK. D.K.
+            looking like he could be an asset sooner than later. But Ben done
+            all year. Hope the kid can keep me afloat.
           </p>
         </div>
         <div class="block" @click="openFive()">
           <div class="rank-number silver">
             <span>#5</span>
           </div>
-          <div class="team-card aaron">
-            <h4>Fugly Mountain Trolls</h4>
+          <div class="team-card matt">
+            <h4>Kamara Sutra</h4>
           </div>
         </div>
         <div class="the-why" ref="whyfive">
           <h2>HERES WHY:</h2>
-          <img
-            src="https://res.cloudinary.com/dipgyyv6a/image/upload/v1568326661/Aaron/liargif_hvhm96.gif"
-            alt=""
-          />
+
           <p>
-            With the roster move of the week FantasyJedi Obi Wan Freebern subs
-            in the young padawan (Kyler) at the last minute to save the
-            day!....sigh. It's not an easy thing to deal with when the best move
-            of the week doesnt mean a god damn thing. And i took a hit in the
-            rankngs this week. But i was right about Henry and i was right about
-            A-Rob so you can all eat a dick!... except Lindsey, she seems like a
-            pleasant person.
+            The Fuck was this last week? This week you played the evil empire.
+            Never bodes well.
           </p>
         </div>
         <div class="block" @click="openSix()">
           <div class="rank-number silver">
             <span>#6</span>
           </div>
-          <div class="team-card matt">
-            <h4>Kamara Sutra</h4>
+          <div class="team-card tyler">
+            <h4>Registered Flex Offenders</h4>
           </div>
         </div>
         <div class="the-why" ref="whysix">
           <h2>HERES WHY:</h2>
           <p>
-            Fuck you Matt. 0.3?! Really!. The top half of KS is loaded. Kamara
-            and Watson can propell him in any given week, even if he cant propel
-            houston to a last second win HEEYYOHHH. But KS isnt just a pretty
-            face. Cook and Gordon are shaping up to be a hot bod as well....
-            Kittle is its balls, but I dont know why...
+            Sun shines on a dogs ass once in a blue moon. Even a blind squirrel
+            finds a nut. Broken clock is right twice a day. Did i forget any?
           </p>
         </div>
         <div class="block" @click="openSeven()">
           <div class="rank-number silver">
             <span>#7</span>
           </div>
-          <div class="team-card tyler">
-            <h4>Registered Flex Offenders</h4>
+          <div class="team-card gio">
+            <h4>Fuck Trump</h4>
           </div>
         </div>
         <div class="the-why" ref="whyseven">
           <h2>HERES WHY:</h2>
-          <img
-            src="https://res.cloudinary.com/dipgyyv6a/image/upload/v1568327168/Aaron/michealgif_a56pt6.gif"
-            alt=""
-          />
+
           <p>
-            Yikes... this isnt a David level bed shatting but its pretty close.
-            I had you at 5...you didnt play at 5 and currently find yourself in
-            last place. I digress. A bad week from a few bad players doesnt
-            banish you to the dungeon just yet...But starting Deon Cain might.
-            Dark days for ol "shit paper"
+            Even Saquon couldnt get you home this week. Bummer. Keenan Allen
+            still out here lookin like a stud tho.
           </p>
         </div>
         <div class="block" @click="openEight">
           <div class="rank-number silver">
             <span>#8</span>
           </div>
-          <div class="team-card gio">
-            <h4>Fuck Trump</h4>
+          <div class="team-card david">
+            <h4>Detroit Smash</h4>
           </div>
         </div>
         <div class="the-why" ref="whyeight">
           <h2>HERES WHY:</h2>
           <p>
-            Well this is the best 8th ranked team I've ever seen. Even as I
-            write this I already know I'm wrong. No idea what the fuck I'm
-            doing. Adam hired me, take it up with him. Highest scorer from Week
-            1 and current Champion. Saquon and Gio...is this gio? john? i dont
-            fuckin know...Saquon and this team are a force. My guess would be
-            next week hes got 8 in the rear view.
+            You're free fallin' on me homie. I don't understand it and I
+            probably never will. This is a really good bad roster.
           </p>
         </div>
         <div class="block" @click="openNine()">
@@ -199,45 +161,36 @@
         <div class="the-why" ref="whynine">
           <h2>HERES WHY:</h2>
           <p>
-            Welp...playing the weeks top dog is always a tough pill to swallow.
-            BUT as we all know Hopkins is clearly an absolute force. Eckler is
-            making Melvin Gordon an afterthought. And Jimmy Graham is...alive?
-            who knew? Lindsey clocks in at a stronger than ranking #9.
+            Thank god. He'd be intolerable if he won. Johnson Bell and Eckler
+            out here doin work.
           </p>
         </div>
         <div class="block" @click="openTen()">
           <div class="rank-number bronze">
             <span>#10</span>
           </div>
-          <div class="team-card john">
-            <h4>Mr Papa Giorgio</h4>
+          <div class="team-card joey">
+            <h4>Christian Mingle</h4>
           </div>
         </div>
         <div class="the-why" ref="whyten">
           <h2>HERES WHY:</h2>
           <p>
-            Well if it isnt the ol QB hoarder himself..who goes by the name of
-            Gio Gio when i don't actually know your name. GIVE ME JACKSON YOU
-            DONT NEED HIM. You're just being a bully. Mahomie Patrick is going
-            to beat a few people in this league all by his damn self. And that
-            is going to be frustrating. Evans is coming in hot sooner than
-            later. GioGio gonna be an underdog to look out for.
+            Slightly more polished turd defeats the shiniest turd in all the
+            land
           </p>
         </div>
         <div class="block" @click="openEleven()">
           <div class="rank-number bronze">
             <span>#11</span>
           </div>
-          <div class="team-card joey">
-            <h4>Christian Mingle</h4>
+          <div class="team-card john">
+            <h4>Mr Papa Giorgio</h4>
           </div>
         </div>
         <div class="the-why" ref="whyeleven">
           <p>
-            <img
-              src="https://res.cloudinary.com/dipgyyv6a/image/upload/v1568328060/Aaron/willsmith_ch8teq.jpg"
-              alt=""
-            />
+            40 point sitting on your bench every week doesnt win football games.
           </p>
         </div>
       </div>
