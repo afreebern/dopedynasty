@@ -4,13 +4,15 @@
     <h2>CURRENT POINT LEADERS</h2>
     </div>
     <div class="pillars">
+      <div class="pillar trump">
+        <p>F*** TRUMP</p>
+        </div>
       <div class="pillar dog">
         <p>DIGGITY</p>
       </div>
       <div class="pillar vader">
         <p>DARTH HOFF</p>
       </div>
-      <div class="pillar trump"><p>F*** TRUMP</p></div>
     </div>
     <div class="hall-container">
       <h2>HALL OF RECORDS</h2>
