@@ -11,25 +11,50 @@
     </div>
     <div class="hall-container">
       <h2>HALL OF RECORDS</h2>
-      <div class="content-wrap">
         <div class="winners">
-          <h2>STUDS</h2>
-          <div class="stat">
+          <div class="stud-stat">
             <div>
-              <h3>HIGHEST WEEK:</h3>
-              <h4>155.62</h4>
+              <h3>HIGH SEASON: N/A</h3>
+              <h4>TBD</h4>
             </div>
             <div>
-              <h3>HIGHEST IND WEEK (non-QB)</h3>
-              <h4>42.3: S. Watkins (Diggity)</h4>
+            <h3>HIGH WEEK: 155.62</h3>
+            <h4>Fuck Trump: Wk1 2019</h4>
+            </div>
+            <div>
+              <h3>HIGH PLAYER (NonQb): CMC-37.9</h3>
+              <h4>ChristianMingle: Wk1 2019</h4>
+            </div>
+            <div>
+              <h3>HIGH QB: L.JACKSON-43.6</h3>
+              <h4>PapaGioGio: Wk1 2019</h4>
+            </div>
+            <div>
+              <h3>HIGH RB: CMC-37.9</h3>
+              <h4>ChristianMingle: Wk1 2019</h4>
+            </div>
+            <div>
+              <h3>HIGH WR: S.WATKINS-42.3</h3>
+              <h4>DiggityDogg: Wk1 2019</h4>
+            </div>
+            <div>
+              <h3>HIGH TE: E.ENGRAM-23.1</h3>
+              <h4>DarthHoff: Wk1 2019</h4>
+            </div>
+            <div>
+              <h3>HIGH DEF: NE-35.0</h3>
+              <h4>FMT: Wk2 2019</h4>
+            </div>
+            <div>
+              <h3>LOW WEEK: 58.6</h3>
+              <h4>Registered Flex Offenders</h4>
+            </div>
+            <div>
+              <h3>LOW SEASON: N/A</h3>
+              <h4>TBDW</h4>
             </div>
           </div>
-        </div>
-        <div class="losers">
-          <div class="stat">
-            <h2>DUDS</h2>
-            <h3>LOWEST WEEK:</h3>
-            <h4>58.56</h4>
+          <div class="stud-pic"></div>
           </div>
         </div>
       </div>
@@ -113,7 +138,7 @@ h2 {
 
 .content-wrap {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   width: 100%;
   max-width: 1500px;
   justify-content: center;
@@ -122,39 +147,58 @@ h2 {
 
 .winners,
 .losers {
-  width: 45%;
-  outline: 1px solid ORANGE;
+  width: 100%;
   height: 1000px;
+  display: flex;
+  div {
+    margin-bottom: 30px;
+  }
+  h3 {
+    font-size: 32px;
+  }
+  h4 {
+    font-weight: 400;
+  }
 }
 
 .winners {
-  background-image: linear-gradient(
-      rgba(179, 179, 179, 0.7),
-      rgba(114, 114, 114, 0.9)
-    ),
-    url('https://res.cloudinary.com/dipgyyv6a/image/upload/v1568336806/Aaron/raylewis_lbaiy0.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
   padding: 20px;
   display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
+  flex-direction: row;
+  justify-content: center;
   align-items: center;
 }
 
-.losers {
-  background-image: linear-gradient(
-      rgba(179, 179, 179, 0.7),
-      rgba(114, 114, 114, 0.9)
-    ),
-    url('https://res.cloudinary.com/dipgyyv6a/image/upload/v1568338317/Aaron/buttfumble_pjff2t.jpg');
+.stud-pic,
+.stud-stat,
+.dud-pic,
+.dud-stat {
+  width: 50%;
+  height: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.stud-pic {
+  background-image: url('https://res.cloudinary.com/dipgyyv6a/image/upload/v1568336806/Aaron/raylewis_lbaiy0.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  filter: blur(5px);
-  filter: grayscale(100%);
+  outline: 1px solid GOLD;
+  display: none;
+}
+
+.dud-pic {
+  background-image: url('https://res.cloudinary.com/dipgyyv6a/image/upload/v1568338317/Aaron/buttfumble_pjff2t.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.losers {
   padding: 20px;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: flex-start;
   align-items: center;
 }
@@ -181,6 +225,9 @@ h2 {
   }
   .goat {
     background-position-x: -176px;
+  }
+  .stud-pic {
+    display: flex;
   }
 }
 @media only screen and (min-width: 1300px) {
