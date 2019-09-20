@@ -1,5 +1,8 @@
 <template>
   <section>
+    <div class="title-box">
+    <h2>CURRENT POINT LEADERS</h2>
+    </div>
     <div class="pillars">
       <div class="pillar dog">
         <p>DIGGITY</p>
@@ -7,7 +10,7 @@
       <div class="pillar vader">
         <p>DARTH HOFF</p>
       </div>
-      <div class="pillar goat"><p>G.O.A.T</p></div>
+      <div class="pillar trump"><p>F*** TRUMP</p></div>
     </div>
     <div class="hall-container">
       <h2>HALL OF RECORDS</h2>
@@ -63,6 +66,20 @@
 </template>
 
 <style lang="scss" scoped>
+.title-box {
+  position: relative;
+  z-index: 10;
+  h2 {
+    color: WHITE;
+    text-decoration: none;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    letter-spacing: 10px;
+    font-size: 24px;
+    font-weight: 400;
+    text-shadow: 2px 2px 2px #000;
+  }
+}
 .pillars {
   width: 100%;
   min-height: 600px;
@@ -90,6 +107,7 @@
   flex-direction: column;
   justify-content: flex-end;
   align-items: center;
+  max-width: 320px;
   p {
     font-size: 24px;
     color: gold;
@@ -118,6 +136,13 @@
   background-position-x: -291px;
 }
 
+.trump {
+  background-image: url('https://res.cloudinary.com/dipgyyv6a/image/upload/v1568994438/Aaron/trump7_zd7c6c.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-x: -493px;
+}
+
 .hall-container {
   width: 100%;
   display: flex;
@@ -125,7 +150,7 @@
   justify-content: center;
   align-items: center;
   background-color: #fff;
-  padding: 20px;
+  padding: 60px 20px 20px 20px;
   position: relative;
   z-index: 10;
 }
@@ -134,6 +159,7 @@ h2 {
   text-align: center;
   font-size: 42px;
   margin-bottom: 20px;
+  text-decoration: underline;
 }
 
 .content-wrap {
@@ -226,8 +252,14 @@ h2 {
   .goat {
     background-position-x: -176px;
   }
+  .trump {
+    background-position-x: -393px;
+  }
   .stud-pic {
     display: flex;
+  }
+  .title-box h2 {
+    font-size: 52px;
   }
 }
 @media only screen and (min-width: 1300px) {
@@ -248,7 +280,6 @@ h2 {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    margin-top: 400px;
   }
   .pillar {
     width: 20%;
