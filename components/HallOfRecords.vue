@@ -36,8 +36,8 @@
               <h4>ChristianMingle: Wk1 2019</h4>
             </div>
             <div>
-              <h3>HIGH QB: L.JACKSON-43.6</h3>
-              <h4>PapaGioGio: Wk1 2019</h4>
+              <h3>HIGH QB: R.WILSON-45.34</h3>
+              <h4>Lindsey2K: Wk3 2019</h4>
             </div>
             <div>
               <h3>HIGH RB: CMC-37.9</h3>
