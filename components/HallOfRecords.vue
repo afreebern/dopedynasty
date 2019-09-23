@@ -8,15 +8,15 @@
         <h5 style="color: GOLD;">1st</h5>
         <p>F*** TRUMP</p>
         </div>
-      <div class="pillar dog">
-        <h5 style="color: SILVER;">2nd</h5>
-         <img class="trophy" src="" alt="">
-        <p>DIGGITY</p>
-      </div>
       <div class="pillar vader">
-        <h5 style="color: BRONZE;">3rd</h5>
+        <h5 style="color: SILVER;">2nd</h5>
         <img class="trophy" src="" alt="">
         <p>DARTH HOFF</p>
+      </div>
+      <div class="pillar dog">
+        <h5 style="color: BROWN;">3rd</h5>
+         <img class="trophy" src="" alt="">
+        <p>DIGGITY</p>
       </div>
     </div>
     <div class="hall-container">
