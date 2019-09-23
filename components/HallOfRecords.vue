@@ -28,8 +28,8 @@
               <h4>TBD</h4>
             </div>
             <div>
-            <h3>HIGH WEEK: 155.62</h3>
-            <h4>Fuck Trump: Wk1 2019</h4>
+            <h3>HIGH WEEK: 157.72</h3>
+            <h4>Fuck Trump: Wk3 2019</h4>
             </div>
             <div>
               <h3>HIGH PLAYER (NonQb): CMC-37.9</h3>
