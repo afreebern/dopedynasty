@@ -30,8 +30,8 @@
             <h4>Fuck Trump: Wk3 2019</h4>
             </div>
             <div>
-              <h3>HIGH PLAYER (NonQb): CMC-37.9</h3>
-              <h4>ChristianMingle: Wk1 2019</h4>
+              <h3>HIGH PLAYER (NonQb): S.WATKINS-42.3</h3>
+              <h4>DiggityDogg: Wk1 2019</h4>
             </div>
             <div>
               <h3>HIGH QB: R.WILSON-45.34</h3>
