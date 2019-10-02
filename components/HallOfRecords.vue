@@ -10,13 +10,11 @@
         </div>
       <div class="pillar vader">
         <h5 style="color: SILVER;">2nd</h5>
-        <img class="trophy" src="" alt="">
         <p>DARTH HOFF</p>
       </div>
-      <div class="pillar dog">
+      <div class="pillar john">
         <h5 style="color: BROWN;">3rd</h5>
-         <img class="trophy" src="" alt="">
-        <p>DIGGITY</p>
+        <p>GioGio</p>
       </div>
     </div>
     <div class="hall-container">
@@ -159,6 +157,13 @@
   background-position-x: -493px;
 }
 
+.john {
+  background-image: url('https://res.cloudinary.com/dipgyyv6a/image/upload/v1570033682/Aaron/papajaohn_xwjfpq.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-x: -214px;
+}
+
 .hall-container {
   width: 100%;
   display: flex;
@@ -270,6 +275,9 @@ h2 {
   }
   .trump {
     background-position-x: -393px;
+  }
+  .john {
+    background-position-x: -163px;
   }
   .stud-pic {
     display: flex;
