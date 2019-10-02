@@ -31,12 +31,7 @@
             src="https://res.cloudinary.com/dipgyyv6a/image/upload/v1569262806/Aaron/jimh_utvk6q.gif"
             alt=""
           />
-          <p>
-            ^ thats adam while I yell at him after all of him and dipshits
-            trades. "Aww shucks guys im just trying to do right by everybody".
-            Darth remains locked into the top of the power ranking. And I dont
-            see him going anywhere any time soon. P.S. Greg Olsen is an asshole.
-          </p>
+          <p></p>
         </div>
         <div class="block" @click="opentwo()">
           <div class="rank-number gold">
@@ -48,104 +43,70 @@
         </div>
         <div class="the-why" ref="whytwo">
           <h2>HERES WHY:</h2>
-          <p>
-            Well ladies and Gentleman the numbers don't lie. Gio is a force.
-            Ingram and Allen damn near ourscored a couple of us all by their
-            lonesome. The loss of Saquon could prove devastating, as some
-            reports indicate a return as late as week 12. But until given a
-            reason to change, Gio rockets to the 2 spot.
-          </p>
+          <p></p>
         </div>
         <div class="block" @click="openthree()">
           <div class="rank-number gold">
             <span>#3</span>
           </div>
-          <div class="team-card drew">
-            <h4>G.O.A.T</h4>
+          <div class="team-card john">
+            <h4>PapaGioGio</h4>
           </div>
         </div>
         <div class="the-why" ref="whythree">
           <h2>HERES WHY:</h2>
-          <p>
-            As of Monday when I'm writing this Drew is winning. It might not go
-            that way. But not for lack of trying. Even if he does take a loss
-            Dreww still maintains the 3 spot after scoring right in line with
-            the rest of the league, but shit happens.
-          </p>
+          <p></p>
         </div>
         <div class="block" @click="openFour()">
           <div class="rank-number gold">
             <span>#4</span>
           </div>
-          <div class="team-card josh">
-            <h4>Diggity Dogg</h4>
+          <div class="team-card lindsey">
+            <h4>Kung Suh Panda</h4>
           </div>
         </div>
         <div class="the-why" ref="whyfour">
           <h2>HERES WHY:</h2>
 
-          <p>
-            With youth comes a little inconsistancy. Tampa bay remembered that
-            big fella they got...mike something? And the Vikings found a way to
-            limit Cousins mistakes, only let him throw the ball 4 times a game
-            and only if Theilen is wide open. conservative, but if it aint broke
-            dont fix it. Josh is the low man this week... even though I tried
-            real hard to be. Diggity will bounce back.
-          </p>
+          <p></p>
         </div>
         <div class="block" @click="openFive()">
           <div class="rank-number silver">
             <span>#5</span>
           </div>
-          <div class="team-card matt">
-            <h4>Kamara Sutra</h4>
+          <div class="team-card josh">
+            <h4>Diggity Dogg</h4>
           </div>
         </div>
         <div class="the-why" ref="whyfive">
           <h2>HERES WHY:</h2>
 
-          <p>
-            Kamara Sutra can rank anywhere from here to the big boss at #1. Hes
-            going to pass me in total points this week. Moving to 4th highest
-            overall. And if I had to guess will move to a total points podium
-            and higher in the rankings next week. Kamara and Cooks combo is not
-            to be fucked with, I'm glad I already got my first matchup with him
-            out of the way.
-          </p>
+          <p></p>
         </div>
         <div class="block" @click="openSix()">
           <div class="rank-number silver">
             <span>#6</span>
           </div>
-          <div class="team-card john">
-            <h4>Papa GioGio</h4>
+          <div class="team-card matt">
+            <h4>Kamara Sutra</h4>
           </div>
         </div>
         <div class="the-why" ref="whysix">
           <h2>HERES WHY:</h2>
-          <p>
-            Apparently 40 points on your bench every week does win you games. I
-            stand fucking corrected. John gets another fuckin cake walk of a
-            matchup, but also puts up some big numbers. the fuck do I know,
-            apparently Johns gonna ride thsi cake walk right into the playoffs.
-          </p>
+          <p></p>
         </div>
         <div class="block" @click="openSeven()">
           <div class="rank-number silver">
             <span>#7</span>
           </div>
-          <div class="team-card lindsey">
-            <h4>Kung Suh Panda</h4>
+          <div class="team-card drew">
+            <h4>Golden G.O.A.T</h4>
           </div>
         </div>
         <div class="the-why" ref="whyseven">
           <h2>HERES WHY:</h2>
 
-          <p>
-            RUSSELL THE MUSCLE. The only thing Lindsey does is put up solid
-            numbers every week and have me underestimate her teams overall
-            standing. Play tyler helps...
-          </p>
+          <p></p>
         </div>
         <div class="block" @click="openEight">
           <div class="rank-number silver">
@@ -157,64 +118,43 @@
         </div>
         <div class="the-why" ref="whyeight">
           <h2>HERES WHY:</h2>
-          <p>
-            HES GONNA GET A WIN. And if he doesnt its because i won the trade.
-            This is fun for me. Amari and Cupp showe up big and probably get
-            Detroit in the winners column. It'll be a long climb back to where I
-            had him, but W's are a start.
-          </p>
+          <p></p>
         </div>
         <div class="block" @click="openNine()">
           <div class="rank-number bronze">
             <span>#9</span>
           </div>
-          <div class="team-card aaron">
-            <h4>Fugly Mountain Trolls</h4>
+          <div class="team-card joey">
+            <h4>Christian Mingle</h4>
           </div>
         </div>
         <div class="the-why" ref="whynine">
           <h2>HERES WHY:</h2>
-          <p>
-            Mediocrity is fun aint it? Combine that with bad decision making by
-            yours truly and you free fall in your own rankings, despite your
-            clear biased for your team. If anybody needs me I'll be walking
-            slowy down the street with a tiny storm cloud over my head listening
-            to Adele. HELLO FROM THE OTHER SIIIIIIIIIDE.
-          </p>
+          <p></p>
         </div>
         <div class="block" @click="openTen()">
           <div class="rank-number bronze">
             <span>#10</span>
           </div>
-          <div class="team-card tyler">
-            <h4>Registered Flex Offenders</h4>
+          <div class="team-card aaron">
+            <h4>Fugly Mountain Trolls</h4>
           </div>
         </div>
         <div class="the-why" ref="whyten">
           <h2>HERES WHY:</h2>
-          <p>
-            Wanna share my tiny storm cloud? you can talk to me about Cam and
-            Tyreek and I'll listen and pretend I'm not glad you're down here
-            with me. Rough times for Tyler.
-          </p>
+          <p></p>
         </div>
         <div class="block" @click="openEleven()">
           <div class="rank-number bronze">
             <span>#11</span>
           </div>
-          <div class="team-card joey">
-            <h4>Christian Mingle</h4>
+          <div class="team-card tyler">
+            <h4>Registered Flex Offenders</h4>
           </div>
         </div>
         <div class="the-why" ref="whyeleven">
           <h2>HERES WHY:</h2>
-          <p>
-            Well, I tried to give you the benefit of the doubt and took you out
-            of the bottom spot last. Partly because i saw a glimmer of hope,
-            partly because I was mad at john for calling me names during trade
-            offers. But... yeesh. Will Antonio Browns stats at a divion II
-            college count?
-          </p>
+          <p></p>
         </div>
       </div>
     </div>
