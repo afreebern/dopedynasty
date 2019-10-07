@@ -30,8 +30,8 @@
             <h4>Diggity Dogg: Wk5 2019</h4>
             </div>
             <div>
-              <h3>HIGH PLAYER (NonQb): A. Jones-45.70</h3>
-              <h4>Flex Offenders: Wk5 2019</h4>
+              <h3>HIGH PLAYER (NonQb): W.Fuller-46.70</h3>
+              <h4>Kamara Sutra: Wk5 2019</h4>
             </div>
             <div>
               <h3>HIGH QB: D.Watson</h3>
@@ -42,8 +42,8 @@
               <h4>Flex Offenders: Wk5 2019</h4>
             </div>
             <div>
-              <h3>HIGH WR: S.WATKINS-42.3</h3>
-              <h4>DiggityDogg: Wk1 2019</h4>
+              <h3>HIGH WR: W.Fuller-46.70</h3>
+              <h4>Kamara Sutra: Wk5 2019</h4>
             </div>
             <div>
               <h3>HIGH TE: E.ENGRAM-23.1</h3>
