@@ -26,20 +26,20 @@
               <h4>TBD</h4>
             </div>
             <div>
-            <h3>HIGH WEEK: 157.72</h3>
-            <h4>Fuck Trump: Wk3 2019</h4>
+            <h3>HIGH WEEK: 172.02</h3>
+            <h4>Diggity Dogg: Wk5 2019</h4>
             </div>
             <div>
-              <h3>HIGH PLAYER (NonQb): S.WATKINS-42.3</h3>
-              <h4>DiggityDogg: Wk1 2019</h4>
+              <h3>HIGH PLAYER (NonQb): A. Jones-45.70</h3>
+              <h4>Flex Offenders: Wk5 2019</h4>
             </div>
             <div>
-              <h3>HIGH QB: R.WILSON-45.34</h3>
-              <h4>Lindsey2K: Wk3 2019</h4>
+              <h3>HIGH QB: D.Watson</h3>
+              <h4>Kamara Sutra: Wk5 2019</h4>
             </div>
             <div>
-              <h3>HIGH RB: CMC-37.9</h3>
-              <h4>ChristianMingle: Wk1 2019</h4>
+              <h3>HIGH RB: A. Jones-45.70</h3>
+              <h4>Flex Offenders: Wk5 2019</h4>
             </div>
             <div>
               <h3>HIGH WR: S.WATKINS-42.3</h3>
