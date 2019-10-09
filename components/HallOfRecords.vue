@@ -26,8 +26,8 @@
               <h4>TBD</h4>
             </div>
             <div>
-            <h3>HIGH WEEK: 172.02</h3>
-            <h4>Diggity Dogg: Wk5 2019</h4>
+            <h3>HIGH WEEK: 200.66</h3>
+            <h4>Kamara Sutra: Wk5 2019</h4>
             </div>
             <div>
               <h3>HIGH PLAYER (NonQb): W.Fuller-46.70</h3>
