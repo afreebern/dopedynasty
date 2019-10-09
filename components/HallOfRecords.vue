@@ -4,17 +4,17 @@
     <h2>CURRENT POINT LEADERS</h2>
     </div>
     <div class="pillars">
-      <div class="pillar trump">
+      <div class="pillar kamara">
         <h5 style="color: GOLD;">1st</h5>
-        <p>F*** TRUMP</p>
+        <p>Kamara Sutra</p>
         </div>
-      <div class="pillar vader">
+      <div class="pillar lindsey">
         <h5 style="color: SILVER;">2nd</h5>
-        <p>DARTH HOFF</p>
+        <p>Kung Suh Panda</p>
       </div>
-      <div class="pillar john">
+      <div class="pillar dog">
         <h5 style="color: BROWN;">3rd</h5>
-        <p>GioGio</p>
+        <p>Diggity Dogg</p>
       </div>
     </div>
     <div class="hall-container">
@@ -164,6 +164,20 @@
   background-position-x: -214px;
 }
 
+.kamara {
+  background-image: url('https://res.cloudinary.com/dipgyyv6a/image/upload/v1570630157/Aaron/kamara_hpnsfi.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-x: -214px;
+}
+
+.lindsey {
+  background-image: url('https://res.cloudinary.com/dipgyyv6a/image/upload/v1570630372/Aaron/D4TdoDdy_400x400_k6yqop.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-x: -88px;
+}
+
 .hall-container {
   width: 100%;
   display: flex;
@@ -278,6 +292,9 @@ h2 {
   }
   .john {
     background-position-x: -163px;
+  }
+  .lindsey {
+    background-position-x: -38px;
   }
   .stud-pic {
     display: flex;

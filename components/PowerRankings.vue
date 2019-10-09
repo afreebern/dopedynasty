@@ -67,12 +67,7 @@
         </div>
         <div class="the-why" ref="whythree">
           <h2>HERES WHY:</h2>
-          <p>
-            How? I do not not know. But here we are. this is the world we live
-            in. I dont like it either. All he does is win win win. Buffalo -
-            because they both started out undefeated and they both fuckin
-            shouldnt have.
-          </p>
+          <p></p>
         </div>
         <div class="block" @click="openFour()">
           <div class="rank-number gold">
@@ -88,11 +83,7 @@
             src="https://res.cloudinary.com/dipgyyv6a/image/upload/v1570035648/Aaron/tenor_g5vpei.gif"
             alt=""
           />
-          <p>
-            I told you. It isnt big performances and flashy record setting
-            players. Its steady points until BAM... Lindsey quietly has a 2 spot
-            in the playoffs
-          </p>
+          <p></p>
         </div>
         <div class="block" @click="openFive()">
           <div class="rank-number silver">
@@ -105,12 +96,7 @@
         <div class="the-why" ref="whyfive">
           <h2>HERES WHY:</h2>
 
-          <p>
-            Congrats to our newest polished turd. He should be killing, just
-            isnt. Melvon comes back this week. that should rocket Diggity back
-            up the charts. LA Chargers - bunch of young superstars led by an old
-            fuck and getting Melvin Gordon Back
-          </p>
+          <p></p>
         </div>
         <div class="block" @click="openSix()">
           <div class="rank-number silver">
@@ -122,12 +108,7 @@
         </div>
         <div class="the-why" ref="whysix">
           <h2>HERES WHY:</h2>
-          <p>
-            Shitty week. still stacked team. Cook and Kamara continue to fuck
-            shit up. Although apparently sometimes nobody else participates.
-            Carolina - Running back that just feels alone in the cold sometimes.
-            CMC = dalvin and kamara on matts team this week.
-          </p>
+          <p></p>
         </div>
         <div class="block" @click="openSeven()">
           <div class="rank-number silver">
@@ -140,11 +121,7 @@
         <div class="the-why" ref="whyseven">
           <h2>HERES WHY:</h2>
 
-          <p>
-            GOAT slide gif is right. couple rough weeks in a row and Drew gets
-            to come down here with good teams that suck, like me and Detroit.
-            Welcome brother. Cleveland - Started out HYPED up... not living up.
-          </p>
+          <p></p>
         </div>
         <div class="block" @click="openEight">
           <div class="rank-number silver">
@@ -156,11 +133,7 @@
         </div>
         <div class="the-why" ref="whyeight">
           <h2>HERES WHY:</h2>
-          <p>
-            Back at 2-2 hes making a case that i wasnt 100% wrong when i had him
-            so much higher in the rankings. Chubb comes in hot with a week
-            winning game. Tampa Bay - all them flashy toys...all for not.
-          </p>
+          <p></p>
         </div>
         <div class="block" @click="openNine()">
           <div class="rank-number bronze">
@@ -172,12 +145,7 @@
         </div>
         <div class="the-why" ref="whynine">
           <h2>HERES WHY:</h2>
-          <p>
-            Ill eat my words when im wrong. Put up big numbers this week. If our
-            trade ends up going in your favor...ill take you out of here and
-            treat you like Will S.F - everytime they win i just cant understand
-            why.
-          </p>
+          <p></p>
         </div>
         <div class="block" @click="openTen()">
           <div class="rank-number bronze">
@@ -189,12 +157,7 @@
         </div>
         <div class="the-why" ref="whyten">
           <h2>HERES WHY:</h2>
-          <p>
-            I got a win... if you think im above celebrating a win that was
-            beating up the slow kid on the playground... then you are wrong sir.
-            It was tyler so theres an * but it puts me on the board. PIT -
-            finally got a win! but they needed to play CINCY to get there
-          </p>
+          <p></p>
         </div>
         <div class="block" @click="openEleven()">
           <div class="rank-number bronze">
@@ -206,9 +169,7 @@
         </div>
         <div class="the-why" ref="whyeleven">
           <h2>HERES WHY:</h2>
-          <p>
-            LOL MIAMI - because....well just look
-          </p>
+          <p></p>
         </div>
       </div>
     </div>
