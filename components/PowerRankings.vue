@@ -136,7 +136,7 @@
           <div class="rank-number bronze">
             <span>#9</span>
           </div>
-          <div class="team-card Joey">
+          <div class="team-card joey">
             <h4>CMC</h4>
           </div>
         </div>
