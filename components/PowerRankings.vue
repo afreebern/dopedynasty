@@ -27,10 +27,7 @@
         </div>
         <div class="the-why" ref="whyone">
           <h2>HERES WHY:</h2>
-          Current Points leader. And is sitting at 4-2 DESPITE also having the
-          highest points against (Side Note: those points against are a full
-          200pts higher than fuckin Johns). Numbers dont lie, hes your current
-          rankings champion.
+          All Hail Dalvin Cook...and Marvin Jones apparently?
           <p></p>
         </div>
         <div class="block" @click="opentwo()">
@@ -44,10 +41,7 @@
         <div class="the-why" ref="whytwo">
           <h2>HERES WHY:</h2>
           <p>
-            Lindsey gets to be the latest victim of trading with adam...you
-            people never learn. Scary Terry is looking good. Despite not having
-            two of his 4 first rounders (because you people never learn) adam
-            still puts up big numbers and puts away a solid team.
+            Thanks Will...
           </p>
         </div>
         <div class="block" @click="openthree()">
@@ -61,132 +55,121 @@
         <div class="the-why" ref="whythree">
           <h2>HERES WHY:</h2>
           <p>
-            Because i guess i fuckin have to right? at 6-0 i suppose i cant move
-            him down any further. I'd like to note that only two people have
-            less points for than this lucky jabroni, and theyre Will and TP....
-            youre on a short leash you stingey fuck.
+            FUCKING HOW
           </p>
         </div>
         <div class="block" @click="openFour()">
           <div class="rank-number gold">
             <span>#4</span>
           </div>
-          <div class="team-card josh">
-            <h4>Diggity Dogg</h4>
+          <div class="team-card lindsey">
+            <h4>Kung Suh Pands</h4>
           </div>
         </div>
         <div class="the-why" ref="whyfour">
           <h2>HERES WHY:</h2>
           <p>
-            Even with up and down weeks Diggity is still one of the highest
-            point scorers. And his overall outlook got better once again as Will
-            continues to trade for old people, young propects, trading away 1st
-            rounders while trying to convince me that hes got some secret master
-            plan. I'm not buying it. But good on Josh for taking advantage.
+            Only lost to me because my team wents bananas. Still put a up a shit
+            load of points.
           </p>
         </div>
         <div class="block" @click="openFive()">
           <div class="rank-number silver">
             <span>#5</span>
           </div>
-          <div class="team-card lindsey">
-            <h4>Kung Suh Panda</h4>
+          <div class="team-card josh">
+            <h4>Diggity Dogg</h4>
           </div>
         </div>
         <div class="the-why" ref="whyfive">
           <h2>HERES WHY:</h2>
 
           <p>
-            We tried to warn you. trading with adam is a deal with the devil.
-            dissly going down is a rough blow. but Lindseys team still looks
-            good with eckler maintaining a huge role in that offense, and
-            russell the muscle putting up MVP numbers.
+            Doesnt move down for any real reason. Lindsey just that good. Trade
+            Juju. he Dudu.
           </p>
         </div>
         <div class="block" @click="openSix()">
           <div class="rank-number silver">
             <span>#6</span>
           </div>
-          <div class="team-card aaron">
-            <h4>Fugly Mountain Trolls</h4>
+          <div class="team-card gio">
+            <h4>Fuck Trump</h4>
           </div>
         </div>
         <div class="the-why" ref="whysix">
           <h2>HERES WHY:</h2>
           <p>
-            WHY?!?! because im one total point away from being 5 and fucking
-            1!...THATS WHY. eat it fantasy gods.
+            I dont see it. but the fantasy gods do. bravo sir
           </p>
         </div>
         <div class="block" @click="openSeven()">
           <div class="rank-number silver">
             <span>#7</span>
           </div>
-          <div class="team-card gio">
-            <h4>Fuck Trump</h4>
+          <div class="team-card david">
+            <h4>Detroit Smash</h4>
           </div>
         </div>
         <div class="the-why" ref="whyseven">
           <h2>HERES WHY:</h2>
 
           <p>
-            Several bad weeks got our guy here spiraling. but Saquon is coming
-            back. Coleman is on the rise. theilan showing up, allen will bounce
-            back. Id be careful when im playing the ol FT.
+            Here he comes. we warned you guys
           </p>
         </div>
         <div class="block" @click="openEight">
           <div class="rank-number silver">
             <span>#8</span>
           </div>
-          <div class="team-card joey">
-            <h4>CMC</h4>
+          <div class="team-card drew">
+            <h4>G.O.A.T</h4>
           </div>
         </div>
         <div class="the-why" ref="whyeight">
           <h2>HERES WHY:</h2>
           <p>
-            Thats your team name now. because its the only reason youre here.
-            that is all.
+            all the points. none of the wins. he'll take the 6 seed by points
           </p>
         </div>
         <div class="block" @click="openNine()">
           <div class="rank-number bronze">
             <span>#9</span>
           </div>
-          <div class="team-card drew">
-            <h4>G.O.A.T</h4>
+          <div class="team-card Joey">
+            <h4>CMC</h4>
           </div>
         </div>
         <div class="the-why" ref="whynine">
           <h2>HERES WHY:</h2>
-          <p>drew...drew drew drew...drew drew drew drew drew. yikes.</p>
+          <p>if it wasnt for CMC youd be ranked 26th</p>
         </div>
         <div class="block" @click="openTen()">
           <div class="rank-number bronze">
             <span>#10</span>
           </div>
-          <div class="team-card david">
-            <h4>Detroit Smash</h4>
+          <div class="team-card tyler">
+            <h4>Flex Offenders</h4>
           </div>
         </div>
         <div class="the-why" ref="whyten">
           <h2>HERES WHY:</h2>
-          <p>you lost to TP...do i need further explaination?</p>
+          <p>
+            its our own personal fishTANK. hes already throwing in the towel
+          </p>
         </div>
         <div class="block" @click="openEleven()">
           <div class="rank-number bronze">
             <span>#11</span>
           </div>
-          <div class="team-card tyler">
-            <h4>Registered Flex Offenders</h4>
+          <div class="team-card aaron">
+            <h4>Fugly Mountain Trolls</h4>
           </div>
         </div>
         <div class="the-why" ref="whyeleven">
           <h2>HERES WHY:</h2>
           <p>
-            HE GOT A WIN. but its still strugglesville in Flex land. Tyreek
-            gonna save the day? no. this team sucks.
+            because if im anywhere else you whiny twits throw a fit.
           </p>
         </div>
       </div>
