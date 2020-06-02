@@ -22,8 +22,12 @@
         <div class="winners">
           <div class="stud-stat">
             <div>
-              <h3>HIGH SEASON: N/A</h3>
-              <h4>TBD</h4>
+              <h3>HIGH SEASON: Lindsey2k</h3>
+              <h4>1534.36pts</h4>
+            </div>
+            <div>
+              <h3>SEASON TOTAL (non QB)</h3>
+              <h4>CMC: 413.2pts</h4>
             </div>
             <div>
             <h3>HIGH WEEK: 200.66</h3>
@@ -34,8 +38,8 @@
               <h4>Kamara Sutra: Wk5 2019</h4>
             </div>
             <div>
-              <h3>HIGH QB: D.Watson</h3>
-              <h4>Kamara Sutra: Wk5 2019</h4>
+              <h3>HIGH QB: A.Rogers-53.7</h3>
+              <h4>That Moron: Wk7 2019</h4>
             </div>
             <div>
               <h3>HIGH RB: A. Jones-45.70</h3>
@@ -46,8 +50,8 @@
               <h4>Kamara Sutra: Wk5 2019</h4>
             </div>
             <div>
-              <h3>HIGH TE: E.ENGRAM-23.1</h3>
-              <h4>DarthHoff: Wk1 2019</h4>
+              <h3>HIGH TE: D.Waller-28.1</h3>
+              <h4>DarthHoff: Wk7 2019</h4>
             </div>
             <div>
               <h3>HIGH DEF: NE-35.0</h3>
@@ -58,8 +62,8 @@
               <h4>Registered Flex Offenders</h4>
             </div>
             <div>
-              <h3>LOW SEASON: N/A</h3>
-              <h4>TBDW</h4>
+              <h3>LOW SEASON: T.Paulsen</h3>
+              <h4>1269.38</h4>
             </div>
           </div>
           <div class="stud-pic"></div>
