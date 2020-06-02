@@ -1,6 +1,6 @@
 <template>
   <section>
-    <div class="title-box">
+    <!-- <div class="title-box">
     <h2>CURRENT POINT LEADERS</h2>
     </div>
     <div class="pillars">
@@ -16,7 +16,7 @@
         <h5 style="color: BROWN;">3rd</h5>
         <p>Diggity Dogg</p>
       </div>
-    </div>
+    </div> -->
     <div class="hall-container">
       <h2>HALL OF RECORDS</h2>
         <div class="winners">
