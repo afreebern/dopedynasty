@@ -267,25 +267,81 @@
             @click="e => e.target.classList.toggle('dead')"
             class="player wr"
           >
-            40. Terry McLaurin WR WSH
+            41. Terry McLaurin WR WSH
           </div>
           <div
             @click="e => e.target.classList.toggle('dead')"
             class="player wr"
           >
-            41. Tyler Locket WR SEA
+            42. Tyler Locket WR SEA
           </div>
           <div
             @click="e => e.target.classList.toggle('dead')"
             class="player wr"
           >
-            42. Calvin Ridley WR ATL
+            43. Calvin Ridley WR ATL
           </div>
           <div
             @click="e => e.target.classList.toggle('dead')"
             class="player te"
           >
-            43. Mark Andrews TE BAL
+            44. Mark Andrews TE BAL
+          </div>
+          <div
+            @click="e => e.target.classList.toggle('dead')"
+            class="player wr"
+          >
+            45. Keenan Allen WR LAC
+          </div>
+          <div
+            @click="e => e.target.classList.toggle('dead')"
+            class="player rb"
+          >
+            46. Kareem Hunt RB CLE
+          </div>
+          <div
+            @click="e => e.target.classList.toggle('dead')"
+            class="player te"
+          >
+            47. Zach Etrz TE PHI
+          </div>
+          <div
+            @click="e => e.target.classList.toggle('dead')"
+            class="player rb"
+          >
+            48. James Conner RB PIT
+          </div>
+          <div
+            @click="e => e.target.classList.toggle('dead')"
+            class="player wr"
+          >
+            49. Michael Gallup WR DAL
+          </div>
+          <div
+            @click="e => e.target.classList.toggle('dead')"
+            class="player wr"
+          >
+            50. T.Y Hilton WR IND
+          </div>
+        </div>
+        <div class="column">
+          <div
+            @click="e => e.target.classList.toggle('dead')"
+            class="player wr"
+          >
+            51. DJ Chark WR JAX
+          </div>
+          <div
+            @click="e => e.target.classList.toggle('dead')"
+            class="player wr"
+          >
+            52. Courtland Sutton WR DEN
+          </div>
+          <div
+            @click="e => e.target.classList.toggle('dead')"
+            class="player wr"
+          >
+            53. D.K Metcalf WR SEA
           </div>
         </div>
         <div class="column"></div>
@@ -428,6 +484,18 @@
           >
             19. Todd Gurley RB ATL
           </div>
+          <div
+            @click="e => e.target.classList.toggle('dead')"
+            class="player rb"
+          >
+            20. Kareem Hunt RB CLE
+          </div>
+          <div
+            @click="e => e.target.classList.toggle('dead')"
+            class="player rb"
+          >
+            21. James Conner RB PIT
+          </div>
         </div>
         <div class="column"></div>
         <div class="column"></div>
@@ -556,6 +624,42 @@
           >
             20. Calvin Ridley WR ATL
           </div>
+          <div
+            @click="e => e.target.classList.toggle('dead')"
+            class="player wr"
+          >
+            21. Keenan Allen WR LAC
+          </div>
+          <div
+            @click="e => e.target.classList.toggle('dead')"
+            class="player wr"
+          >
+            22. Michael Gallup WR DAL
+          </div>
+          <div
+            @click="e => e.target.classList.toggle('dead')"
+            class="player wr"
+          >
+            23. T.Y Hilton WR IND
+          </div>
+          <div
+            @click="e => e.target.classList.toggle('dead')"
+            class="player wr"
+          >
+            24. DJ Chark WR JAX
+          </div>
+          <div
+            @click="e => e.target.classList.toggle('dead')"
+            class="player wr"
+          >
+            25. Courtland Sutton WR DEN
+          </div>
+          <div
+            @click="e => e.target.classList.toggle('dead')"
+            class="player wr"
+          >
+            26. D.K Metcalf WR SEA
+          </div>
         </div>
         <div class="column"></div>
         <div class="column"></div>
@@ -581,6 +685,12 @@
             class="player te"
           >
             3. Mark Andrews TE BAL
+          </div>
+          <div
+            @click="e => e.target.classList.toggle('dead')"
+            class="player te"
+          >
+            4. Zach Etrz TE PHI
           </div>
         </div>
         <div class="column"></div>
@@ -700,6 +810,7 @@ export default {
 
 .board {
   width: 100%;
+  height: 100%;
   display: flex;
   flex-direction: row;
   padding-top: 5px;
@@ -717,9 +828,10 @@ export default {
 }
 
 .player {
-  padding: 7px 0 7px 5px;
+  padding-left: 5px;
   border-top: 1px solid BLAck;
   border-bottom: 1px solid BLACK;
+  height: 4%;
 }
 
 .rb {
